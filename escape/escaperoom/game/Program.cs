@@ -7,7 +7,7 @@ class Program
         Console.CursorVisible = false;
         var engine = GameEngine.Instance;
 
-        bool isHardMode = AskYesNoQuestion("You are about to gain knowledge but abandon your sanity, win the game but lose in life. Do you want to play on easy mode?");
+        bool isHardMode = AskYesNoQuestion("You are about to gain knowledge but abandon your sanity, win the game but lose in life. Do you want to play on hard mode?");
         // bool skipTutorial = AskYesNoQuestion("Would you like to skip the tutorial?");
 
        

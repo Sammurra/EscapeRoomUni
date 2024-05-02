@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moham\\.nuget\\packages\\": {}
+    "C:\\Users\\Sherman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\libs\\libs.csproj",
+      "projectUniqueName": "C:\\FH4\\C_Sharp_Development_CRC_CD\\EscapeRoomUni\\escape\\escaperoom\\libs\\libs.csproj",
       "projectName": "libs",
-      "projectPath": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\libs\\libs.csproj",
-      "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\libs\\obj\\",
+      "projectPath": "C:\\FH4\\C_Sharp_Development_CRC_CD\\EscapeRoomUni\\escape\\escaperoom\\libs\\libs.csproj",
+      "packagesPath": "C:\\Users\\Sherman\\.nuget\\packages\\",
+      "outputPath": "C:\\FH4\\C_Sharp_Development_CRC_CD\\EscapeRoomUni\\escape\\escaperoom\\libs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sherman\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -117,7 +117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

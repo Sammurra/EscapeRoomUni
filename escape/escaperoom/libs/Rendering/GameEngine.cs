@@ -12,7 +12,7 @@ public sealed class GameEngine
     private static GameEngine? _instance;
  private Timer gameTimer;
     private DateTime startTime;
-    private const int GameDuration = 60000;
+    private const int GameDuration = 90000;
     private int lastLineCursor = 0; 
     public GameObjectFactory gameObjectFactory;
 
@@ -176,7 +176,7 @@ public void Render()
 
 
     {
-          if (gameObjectFactory.AmountOfBoxes == 5 )
+          if (gameObjectFactory.AmountOfBoxes == 11 )
         {
 
           CurrentGameState = GameState.Won;

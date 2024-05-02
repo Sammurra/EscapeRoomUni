@@ -75,3 +75,16 @@ C:\Users\moham\Desktop\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\lib
 C:\Users\moham\Desktop\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\refint\libs.dll
 C:\Users\moham\Desktop\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.pdb
 C:\Users\moham\Desktop\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\ref\libs.dll
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\bin\Debug\net8.0\libs.deps.json
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\bin\Debug\net8.0\libs.dll
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\bin\Debug\net8.0\libs.pdb
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.csproj.AssemblyReference.cache
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.AssemblyInfoInputs.cache
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.AssemblyInfo.cs
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.csproj.CoreCompileInputs.cache
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.sourcelink.json
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.dll
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\refint\libs.dll
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\libs.pdb
+C:\FH4\C_Sharp_Development_CRC_CD\EscapeRoomUni\escape\escaperoom\libs\obj\Debug\net8.0\ref\libs.dll
