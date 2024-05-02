@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\Desktop\\escape\\escaperoom\\game\\game.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\game\\game.csproj",
       "projectName": "game",
-      "projectPath": "C:\\Users\\moham\\Desktop\\escape\\escaperoom\\game\\game.csproj",
+      "projectPath": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\game\\game.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moham\\Desktop\\escape\\escaperoom\\game\\obj\\",
+      "outputPath": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -97,8 +97,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\moham\\Desktop\\escape\\escaperoom\\libs\\libs.csproj": {
-              "projectPath": "C:\\Users\\moham\\Desktop\\escape\\escaperoom\\libs\\libs.csproj"
+            "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\libs\\libs.csproj": {
+              "projectPath": "C:\\Users\\moham\\Desktop\\EscapeRoomUni\\escape\\escaperoom\\libs\\libs.csproj"
             }
           }
         }
